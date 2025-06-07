@@ -1,0 +1,16 @@
+=== Análise de Complexidade de Algoritmos ===
+=== Comparação entre versões recursiva, iterativa e fórmula fechada ===
+
+Gerando dados para os gráficos...
+n,Recursivo,Iterativo,Formula
+5,0.000000,0.000000,0.000001
+10,0.000001,0.000000,0.000001
+15,0.000008,0.000000,0.000001
+20,0.000099,0.000001,0.000001
+25,0.000837,0.000000,0.000000
+30,0.009240,0.000001,0.000001
+35,0.100757,0.000000,0.000000
+40,0.000000,0.000000,0.000000
+
+Dados gerados com sucesso!
+Copie a saída para um arquivo CSV e importe no Excel, Python ou R para gerar os gráficos.
